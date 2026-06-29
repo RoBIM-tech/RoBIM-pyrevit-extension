@@ -1,0 +1,17 @@
+{
+    "extensions": [
+        {
+            "builtin": "False",
+            "type": "extension",
+            "rocket_mode_compatible": "False",
+            "name": "RoBIM",
+            "description": "RoBIM pyRevit extension",
+            "author": "RoBIM",
+            "author_profile": "https://github.com/gagaggan",
+            "url": "https://github.com/gagaggan/RoBIM-pyrevit.git",
+            "website": "https://github.com/gagaggan/RoBIM-pyrevit",
+            "image": "",
+            "dependencies": []
+        }
+    ]
+}
