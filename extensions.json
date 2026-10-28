@@ -8,8 +8,8 @@
             "description": "RoBIM pyRevit extension",
             "author": "RoBIM",
             "author_profile": "https://github.com/gagaggan",
-            "url": "https://github.com/gagaggan/RoBIM-pyrevit.git",
-            "website": "https://github.com/gagaggan/RoBIM-pyrevit",
+            "url": "https://github.com/RoBIM-tech/RoBIM-pyrevit.git",
+            "website": "https://github.com/RoBIM-tech/RoBIM-pyrevit",
             "image": "",
             "dependencies": []
         }
